@@ -7,3 +7,6 @@ I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurve
 I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.csproj.GenerateResource.Cache
 I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.exe
 I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.pdb
+I:\Programming\Kurvendiskussion Reverse\Let-me-program-this-for-you--1\Kurvendiskussion Reverse\bin\Debug\Kurvendiskussion Reverse.exe.config
+I:\Programming\Kurvendiskussion Reverse\Let-me-program-this-for-you--1\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.exe
+I:\Programming\Kurvendiskussion Reverse\Let-me-program-this-for-you--1\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.pdb

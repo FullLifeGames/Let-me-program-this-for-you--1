@@ -119,7 +119,14 @@ namespace Kurvendiskussion_Reverse
         private void button1_Click(object sender, EventArgs e)
         {
             punkte = new List<Punkte>();
-            f = new Funktion();
+            if (!TB_Grad.Text.Equals(""))
+            {
+                f = new Funktion(new double[int.Parse(TB_Grad.Text) + 1], resultat);
+            }
+            else
+            {
+                f = new Funktion();
+            }
             listView1.Items.Clear();
         }
 
