@@ -1,0 +1,9 @@
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\bin\Debug\Kurvendiskussion Reverse.exe.config
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\bin\Debug\Kurvendiskussion Reverse.exe
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\bin\Debug\Kurvendiskussion Reverse.pdb
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.csprojResolveAssemblyReference.cache
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion_Reverse.Form1.resources
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion_Reverse.Properties.Resources.resources
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.csproj.GenerateResource.Cache
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.exe
+I:\Programming\Kurvendiskussion Reverse\Kurvendiskussion Reverse\obj\Debug\Kurvendiskussion Reverse.pdb
